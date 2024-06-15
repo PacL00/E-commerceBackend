@@ -8,7 +8,7 @@
   * [questions](#questions)
   * [license](#license)
   ## description
-  
+  Uses Express.js and sequalize to interact with a MySQL database
   ## application URL
   N/A
   ## screenshot
